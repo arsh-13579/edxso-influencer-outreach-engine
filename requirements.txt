@@ -1,0 +1,9 @@
+google-api-python-client
+openai
+pydantic
+python-dotenv
+pandas
+beautifulsoup4
+requests
+streamlit
+rich
