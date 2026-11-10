@@ -1,5 +1,11 @@
 # Automated Micro-Influencer Discovery & Outreach System
 
+## 📸 Live System & Streamlit Dashboard Preview
+
+![Dashboard Overview](src/Screenshot%202026-11-11%20000422.png)
+
+![Personalized Outreach & Tracker](src/Screenshot%202026-11-11%20000438.png)
+
 An end-to-end AI-powered pipeline built for the **EDXSO AI Engineer Intern Assignment**. This system discovers 50+ real micro-influencers in the **Technology & Desk Setup** niche, evaluates and classifies them against strict quantitative and qualitative criteria, enriches their profiles with contact details, generates strictly length-constrained personalized outreach messages via LLMs, and executes deduplicated outreach tracking.
 
 ## 1. Technology Stack & APIs Used
